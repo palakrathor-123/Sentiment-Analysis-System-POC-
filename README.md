@@ -35,7 +35,7 @@ sentiment-analysis-poc/
     └── model.py                 # Sentiment categorization and TF-IDF matrix generation
 ```
 
-🚀 Setup & Installation Instructions
+## 🚀 Setup & Installation Instructions
 Follow these steps to set up and run the project locally on your system:
 
 ## 1. Clone or Open the Project
@@ -43,26 +43,25 @@ Open your project folder (sentiment-analysis-poc) in your preferred code editor 
 
 ## 2. Install Dependencies
 Open your terminal inside the project directory and install the required external libraries using pip:    
-### pip install -r requirements.txt
+* pip install -r requirements.txt
 
 ## 3. Run the Dashboard Application
 Launch the Streamlit web server by running the following command in your terminal:
-### streamlit run app.py
+* streamlit run app.py
 
-🧪 Sample Test Inputs
-To evaluate the system's performance across different polarity ranges, you can test with the following inputs:
-Positive: "The customer support was amazing, and they resolved my issue within minutes! Highly recommended."
-Negative: "Worst experience ever! The product arrived broken, and nobody is responding to my emails."
-Neutral: "The product is okay. It performs the basic tasks but lacks advanced features."
+## 🧪 Sample Test Inputs
+* To evaluate the system's performance across different polarity ranges, you can test with the following inputs:
+* Positive: "The customer support was amazing, and they resolved my issue within minutes! Highly recommended."
+* Negative: "Worst experience ever! The product arrived broken, and nobody is responding to my emails."
+* Neutral: "The product is okay. It performs the basic tasks but lacks advanced features."
 
 ## Technologies Used
-Language: Python 3.11.x
-Frontend/UI: Streamlit Framework
-NLP Processing: NLTK (Natural Language Toolkit)
-Feature Extraction: Scikit-learn (TF-IDF Vectorizer)
-Data Handling: Pandas DataFrames
+* Language: Python 3.11.x
+* NLP Processing: NLTK (Natural Language Toolkit)
+* Feature Extraction: Scikit-learn (TF-IDF Vectorizer)
+* Data Handling: Pandas DataFrames
 
-Dashboard Overview
+## Dashboard Overview
 <img width="1352" height="568" alt="Image" src="https://github.com/user-attachments/assets/dc24b40d-648a-406b-9160-bd6f9a7b66e0" />
 
 <img width="634" height="271" alt="Image" src="https://github.com/user-attachments/assets/ddf61a84-8991-4efe-9722-963ca847fb1f" />
