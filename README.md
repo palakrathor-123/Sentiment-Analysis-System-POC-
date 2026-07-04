@@ -33,7 +33,7 @@ sentiment-analysis-poc/
     ├── __init__.py              # Marks directory as a Python package
     ├── preprocessing.py         # Step-by-step text cleaning and tokenization logic
     └── model.py                 # Sentiment categorization and TF-IDF matrix generation
-
+```
 
 🚀 Setup & Installation Instructions
 Follow these steps to set up and run the project locally on your system:
@@ -61,6 +61,9 @@ Frontend/UI: Streamlit Framework
 NLP Processing: NLTK (Natural Language Toolkit)
 Feature Extraction: Scikit-learn (TF-IDF Vectorizer)
 Data Handling: Pandas DataFrames
+
+Dashboard Overview
+
 
 Author
 Palak Rathore
